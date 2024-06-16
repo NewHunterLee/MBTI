@@ -7,7 +7,7 @@ import { HelloWorldService } from 'Frontend/generated/endpoints.js';
 
 export const config: ViewConfig = {
   menu: { order: 0, icon: 'line-awesome/svg/globe-solid.svg' },
-  title: 'Hello World',
+  title: 'Hello World!',
 };
 
 export default function HelloWorldView() {
