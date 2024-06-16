@@ -3,6 +3,16 @@
   "license": "UNLICENSED",
   "type": "module",
   "dependencies": {
+    "@hilla/form": "2.0.0",
+    "@hilla/frontend": "2.0.0",
+    "@hilla/generator-typescript-cli": "2.0.0",
+    "@hilla/generator-typescript-core": "2.0.0",
+    "@hilla/generator-typescript-plugin-backbone": "2.0.0",
+    "@hilla/generator-typescript-plugin-barrel": "2.0.0",
+    "@hilla/generator-typescript-plugin-client": "2.0.0",
+    "@hilla/generator-typescript-plugin-model": "2.0.0",
+    "@hilla/generator-typescript-plugin-push": "2.0.0",
+    "@hilla/generator-typescript-utils": "2.0.0",
     "@polymer/polymer": "3.5.1",
     "@vaadin/bundles": "24.4.0",
     "@vaadin/common-frontend": "0.0.19",
@@ -62,6 +72,16 @@
   },
   "vaadin": {
     "dependencies": {
+      "@hilla/form": "2.0.0",
+      "@hilla/frontend": "2.0.0",
+      "@hilla/generator-typescript-cli": "2.0.0",
+      "@hilla/generator-typescript-core": "2.0.0",
+      "@hilla/generator-typescript-plugin-backbone": "2.0.0",
+      "@hilla/generator-typescript-plugin-barrel": "2.0.0",
+      "@hilla/generator-typescript-plugin-client": "2.0.0",
+      "@hilla/generator-typescript-plugin-model": "2.0.0",
+      "@hilla/generator-typescript-plugin-push": "2.0.0",
+      "@hilla/generator-typescript-utils": "2.0.0",
       "@polymer/polymer": "3.5.1",
       "@vaadin/bundles": "24.4.0",
       "@vaadin/common-frontend": "0.0.19",
@@ -119,7 +139,7 @@
       "workbox-core": "7.1.0",
       "workbox-precaching": "7.1.0"
     },
-    "hash": "00086ecf51ad52d043355465dceef19db8c8b3c8b2c101c4135cfb07026de9f6"
+    "hash": "efbd7bfaee8cf6b3ae54d7404ce21054fde0ca31b77137ee81b0b4971fc8fd7a"
   },
   "overrides": {
     "@vaadin/bundles": "$@vaadin/bundles",
@@ -159,6 +179,16 @@
     "@vaadin/react-components-pro": "$@vaadin/react-components-pro",
     "@vaadin/vaadin-themable-mixin": "$@vaadin/vaadin-themable-mixin",
     "@vaadin/vaadin-lumo-styles": "$@vaadin/vaadin-lumo-styles",
-    "@vaadin/vaadin-material-styles": "$@vaadin/vaadin-material-styles"
+    "@vaadin/vaadin-material-styles": "$@vaadin/vaadin-material-styles",
+    "@hilla/generator-typescript-plugin-model": "$@hilla/generator-typescript-plugin-model",
+    "@hilla/generator-typescript-plugin-barrel": "$@hilla/generator-typescript-plugin-barrel",
+    "@hilla/generator-typescript-plugin-push": "$@hilla/generator-typescript-plugin-push",
+    "@hilla/generator-typescript-core": "$@hilla/generator-typescript-core",
+    "@hilla/generator-typescript-plugin-client": "$@hilla/generator-typescript-plugin-client",
+    "@hilla/generator-typescript-utils": "$@hilla/generator-typescript-utils",
+    "@hilla/frontend": "$@hilla/frontend",
+    "@hilla/form": "$@hilla/form",
+    "@hilla/generator-typescript-plugin-backbone": "$@hilla/generator-typescript-plugin-backbone",
+    "@hilla/generator-typescript-cli": "$@hilla/generator-typescript-cli"
   }
 }
