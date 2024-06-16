@@ -31,7 +31,7 @@ function UserPage() {
       </div>
       <div style={{ marginTop: '25px', fontSize: '14px', display: 'flex', justifyContent: 'center', gap: '10px' }}>
       <Button theme = "large">Yes</Button>
-      <Button theme="secondary large contrast">No</Button>
+      <Button theme="secondary large contrast">No!</Button>
       </div>
     </div>
   );
